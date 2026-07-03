@@ -260,7 +260,7 @@ Welcome! This is my demo reel showcasing a selection of my game development proj
 
                             <div class="project-video-BG">
                             <div class="project-video">
-                                <iframe id="youtubeVideo" width="1080" height="1920" src="Script/Screw_Out.html" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+                                <iframe id="youtubeVideo" width="1080" height="1920" src="Script/Screw_Out_1.html" frameborder="0" allowfullscreen allow="autoplay"></iframe>
                             </div>
                             </div>
 
@@ -299,7 +299,7 @@ Welcome! This is my demo reel showcasing a selection of my game development proj
         case 'project4':
             projectContent = `
                             <div class="title-bg">
-                                <h2 class="project-title">Pool Go</h2>
+                                <h2 class="project-title">Tidy Master</h2>
                             </div>
 
                             <div class="project-video-BG">
